@@ -15,3 +15,5 @@ source "$HOME/.cargo/env.fish"
 
 # this is for zoxide
 zoxide init fish | source
+
+# fish_add_path -U ~/.local/bin : for initial folder for tmux 
